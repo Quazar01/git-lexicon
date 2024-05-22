@@ -1,5 +1,3 @@
 May the 22, git workshop
 
 This is file1.txt
-
-Updating file1
